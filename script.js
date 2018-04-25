@@ -1,0 +1,13 @@
+$(document).ready(function(){
+    $("#show").click(function(){
+        $(".voteone").hide();
+    });
+    $("#hide").click(function(){
+        $(".voteone").show();
+    });
+        $("#show").click(function(){
+            $(".votetwo").hide();
+        });
+        $("#hide").click(function(){
+            $(".votetwo").show();
+        });
