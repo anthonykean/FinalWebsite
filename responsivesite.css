@@ -75,11 +75,11 @@ p{
 
 img{
     height: : 500px;
-    width: 250px;
+    width: 500px;
 }
 
 .boxes{
-  align-items: center;
+  display: grid;
   height: 300px;
   width: 200px;
 }
