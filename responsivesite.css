@@ -78,6 +78,10 @@ img{
     width: 500px;
 }
 
+.boxes{
+  align-items: center;
+}
+
 h1{
   color: green;
 }
