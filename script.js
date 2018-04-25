@@ -1,13 +1,13 @@
 $(document).ready(function(){
-    $("#show").click(function(){
+    $("#hide").click(function(){
         $(".voteone").hide();
     });
-    $("#hide").click(function(){
+    $("#show").click(function(){
         $(".voteone").show();
     });
-        $("#show").click(function(){
+        $("#hide").click(function(){
             $(".votetwo").hide();
         });
-        $("#hide").click(function(){
+        $("#show").click(function(){
             $(".votetwo").show();
         });
