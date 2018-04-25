@@ -78,7 +78,7 @@ img{
     width: 500px;
 }
 
-.boxes{
+boxes{
   display: grid;
   height: 300px;
   width: 200px;
