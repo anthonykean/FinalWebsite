@@ -62,7 +62,9 @@ a{
 a:hover{
   color: green;
 }
-
+.appear{
+  display: none;
+}
 #title{
   color: black
   background-color: orange;
