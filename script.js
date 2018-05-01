@@ -12,7 +12,7 @@ $(document).ready(function(){
      $(".appear").fadeIn(1000);
 });
 
-$("#toggletwo").hover(function(){
-    $("#toggleboxtwo").show(1000);
-    $("#toggleboxtwo").css("background-color", "white");
+$("#toggle").hover(function(){
+    $("#togglebox").show(1000);
+    $("#togglebox").css("background-color", "white");
 });
