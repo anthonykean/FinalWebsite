@@ -5,9 +5,4 @@ $(document).ready(function(){
     $("#show").click(function(){
         $(".vote").show();
     });
-        $("#hide").click(function(){
-            $(".vote").hide();
-        });
-        $("#show").click(function(){
-            $(".vote").show();
-        });
+        
