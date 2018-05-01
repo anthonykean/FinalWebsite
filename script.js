@@ -5,4 +5,9 @@ $(document).ready(function(){
     $("#show").click(function(){
         $(".vote").show();
     });
-        
+    $("#hoverbox").hover(function(){
+        $("#hoverbox").fadeOut(1000);
+});
+   $("#hoverbox").hover(function(){
+     $(".appear").fadeIn(1000);
+});
