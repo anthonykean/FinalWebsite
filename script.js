@@ -14,10 +14,5 @@ $(document).ready(function(){
 
 $("#toggletwo").hover(function(){
     $("#toggleboxtwo").show(1000);
-    $("#toggleboxtwo").css("background-color", "brown");
-});
-
-$("#toggle").hover(function(){
-    $("#togglebox").show(1000);
-    $("#togglebox").css("background-color", "purple");
+    $("#toggleboxtwo").css("background-color", "white");
 });
