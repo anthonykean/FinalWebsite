@@ -65,8 +65,11 @@ a:hover{
 .appear{
   display: none;
 }
-.togglebox{
-  display: none;
+#togglebox {
+    width: 200px;
+    height: 55px;
+    background-color: green;
+    display: none;
 }
 #title{
   color: black
