@@ -66,17 +66,16 @@ a:hover{
 }
 .imageone{
   display: none;
-  display: inline-grid;
-  height: 400px;
-  width: 200px;
-  margin-left:
+  height: 600px;
+  width: 300px;
+  margin-left: auto;
 }
 
 .imagetwo{
   display: none;
-  height: 400px;
-  width: 200px;
-  margin-right:
+  height: 600px;
+  width: 300px;
+  margin-right: auto;
 }
 
 .football{
