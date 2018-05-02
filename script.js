@@ -11,16 +11,16 @@ $("#toggle").hover(function(){
     $("#togglebox").css("background-color", "green");
 });
 
-$("#hide").click(function(){
+$("#show").click(function(){
     $(".imageone").hide();
 });
-$("#show").click(function(){
+$("#hide").click(function(){
     $(".imageone").show();
 });
-$("#hide").click(function(){
+$("#show").click(function(){
     $(".imagetwo").hide();
 });
-$("#show").click(function(){
+$("#hide").click(function(){
     $(".imagetwo").show();
 });
 });
