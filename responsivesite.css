@@ -68,6 +68,7 @@ a:hover{
   display: none;
   height: 600px;
   width: 300px;
+  display: inline;
   margin-left: auto;
 }
 
@@ -75,6 +76,7 @@ a:hover{
   display: none;
   height: 600px;
   width: 300px;
+  display: inline;
   margin-right: auto;
 }
 
