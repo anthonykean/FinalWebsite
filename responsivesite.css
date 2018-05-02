@@ -66,10 +66,11 @@ a:hover{
   display: none;
 }
 #togglebox {
-    width: 200px;
-    height: 55px;
+    width: 500px;
+    height: 550px;
     background-color: green;
     display: none;
+    color: white;
 }
 #title{
   color: black

@@ -1,14 +1,14 @@
 $(document).ready(function(){
     $("#hover").hover(function(){
-        $("#hover").fadeOut(1000);
+        $("#hover").fadeOut(2000);
 });
    $("#hover").hover(function(){
-     $(".appear").fadeIn(1000);
+     $(".appear").fadeIn(2000);
 });
 
 $("#toggle").hover(function(){
-    $("#togglebox").show(1000);
-    $("#togglebox").css("background-color", "white");
+    $("#togglebox").show(2000);
+    $("#togglebox").css("background-color", "green");
 });
 
 $("#hide").click(function(){
