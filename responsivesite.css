@@ -64,7 +64,7 @@ a:hover{
 .appear{
   display: none;
 }
-#imageone{
+.imageone{
   display: none;
   grid-row: auto;
   float: right;
@@ -72,7 +72,7 @@ a:hover{
   width: 200px;
 }
 
-#imagetwo{
+.imagetwo{
   display: none;
   grid-row: auto;
   float: right;
