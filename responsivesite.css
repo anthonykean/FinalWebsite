@@ -76,7 +76,7 @@ imagetwo{
   height: 200px;
   width: 200px;
 }
-togglebox {
+#togglebox {
     width: 200px;
     height: 50px;
     background-color: green;
