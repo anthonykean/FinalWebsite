@@ -10,3 +10,16 @@ $("#toggle").hover(function(){
     $("#togglebox").show(1000);
     $("#togglebox").css("background-color", "white");
 });
+
+$("#hide").click(function(){
+    $(".imageone").hide();
+});
+$("#show").click(function(){
+    $(".imageone").show();
+});
+$("#hide").click(function(){
+    $(".imagetwo").hide();
+});
+$("#show").click(function(){
+    $(".imagetwo").show();
+});
