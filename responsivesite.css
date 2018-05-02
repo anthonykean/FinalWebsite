@@ -83,6 +83,7 @@ a:hover{
 .football{
   height: 300px;
   Width: 400px;
+  display: center;
 }
 
 #togglebox {
