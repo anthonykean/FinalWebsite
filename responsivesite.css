@@ -40,11 +40,12 @@ nav ul li a:hover{
   color:black
 }
 
-.box{
+/*.box{
   background-color: white;
   grid-area: col2 col2;
   display: grid;
 }
+*/
 
 footer{
   background-color: orange;
@@ -66,11 +67,17 @@ a:hover{
 #imageone{
   display: none;
   grid-row: auto;
+  float: right;
+  height: 400px;
+  width: 200px;
 }
 
 #imagetwo{
   display: none;
   grid-row: auto;
+  float: right;
+  height: 400px;
+  width: 200px;
 }
 
 #togglebox {
@@ -89,11 +96,11 @@ p{
   border: black;
 }
 
-img{
+/*img{
     height: 300px;
     width: 300px;
 }
-
+*/
 .boxes {
   display: grid;
   display: inline-grid;
