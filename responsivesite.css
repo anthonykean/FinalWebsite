@@ -66,10 +66,12 @@ a:hover{
 }
 #imageone{
   display: none;
+  grid-row: auto;
 }
 
 #imagetwo{
   display: none;
+  grid-row: auto;
 }
 
 #togglebox {
