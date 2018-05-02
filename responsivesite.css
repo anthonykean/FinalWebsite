@@ -40,12 +40,11 @@ nav ul li a:hover{
   color:black
 }
 
-/*.box{
+.box{
   background-color: white;
   grid-area: col2 col2;
   display: grid;
-
-}*/
+}
 
 footer{
   background-color: orange;
@@ -91,8 +90,8 @@ p{
 }
 
 img{
-    height: 500px;
-    width: 500px;
+    height: 300px;
+    width: 300px;
 }
 
 .boxes {
