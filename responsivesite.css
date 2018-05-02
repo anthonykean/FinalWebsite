@@ -64,7 +64,8 @@ a:hover{
 .appear{
   display: none;
 }
-#imageone{display: none;
+#imageone{
+  display: none;
   height: 200px;
   width: 200px;
 }
@@ -92,8 +93,8 @@ p{
 }
 
 img{
-    height: 200px;
-    width: 100px;
+    height: 500px;
+    width: 500px;
 }
 
 .boxes {
