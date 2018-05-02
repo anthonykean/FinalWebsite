@@ -23,3 +23,4 @@ $("#hide").click(function(){
 $("#show").click(function(){
     $(".imagetwo").show();
 });
+});
