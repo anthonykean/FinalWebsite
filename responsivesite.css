@@ -87,13 +87,23 @@ a:hover{
   color: black
   background-color: orange;
 }
-
+img2{
+  display: none;
+  height: 400px;
+  width: 200px;
+}
+img3{
+  display: none;
+  height: 400px;
+  width: 200px;
+}
+}
 p{
   text-align: center;
   border: black;
 }
 
-#img{
+img1{
     height: : 500px;
     width: 500px;
 }
