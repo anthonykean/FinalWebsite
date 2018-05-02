@@ -65,8 +65,7 @@ a:hover{
 .appear{
   display: none;
 }
-#imageone{
-  display: none;
+/*  display: none;
   height: 200px;
   width: 200px;
 }
@@ -76,6 +75,7 @@ a:hover{
   height: 200px;
   width: 200px;
 }
+*/
 #togglebox {
     width: 300px;
     height: 150px;
