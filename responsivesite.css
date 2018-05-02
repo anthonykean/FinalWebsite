@@ -65,18 +65,18 @@ a:hover{
 .appear{
   display: none;
 }
-#imageone{
+imageone{
   display: none;
   height: 200px;
   width: 200px;
 }
 
-#imagetwo{
+imagetwo{
   display: none;
   height: 200px;
   width: 200px;
 }
-#togglebox {
+togglebox {
     width: 500px;
     height: 550px;
     background-color: green;
