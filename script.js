@@ -1,8 +1,8 @@
 $(document).ready(function(){
-    $("#hoverbox").hover(function(){
-        $("#hoverbox").fadeOut(1000);
+    $("#hover").hover(function(){
+        $("#hover").fadeOut(1000);
 });
-   $("#hoverbox").hover(function(){
+   $("#hover").hover(function(){
      $(".appear").fadeIn(1000);
 });
 
