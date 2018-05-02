@@ -77,8 +77,8 @@ imagetwo{
   width: 200px;
 }
 togglebox {
-    width: 500px;
-    height: 550px;
+    width: 200px;
+    height: 50px;
     background-color: green;
     display: none;
     color: white;
