@@ -68,15 +68,15 @@ a:hover{
   display: none;
   height: 600px;
   width: 300px;
-  display: inline;
   margin-left: auto;
+  margin-right: auto;
 }
 
 .imagetwo{
   display: none;
   height: 600px;
   width: 300px;
-  display: inline;
+  margin-left: auto;
   margin-right: auto;
 }
 
