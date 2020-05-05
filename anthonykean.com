@@ -4,10 +4,10 @@
 		<meta charset="UTF-8" />
 		<title>Anthony Kean</title>
 		<link href="sytle.css" rel="stylesheet" />
+		<link href="contact.html" rel="contact" />
 		<link href="sports.html" rel="Writing" />
-    <link href="website.html" rel="Home" />
-    <link href="about.html" rel="About" />
-    <link href="contact.html" rel="contact" />
+		<link href="about.html" rel="about" />
+		<link href="resume.html" rel="Resume" />
 </head>
 <body>
   <header>
@@ -21,14 +21,9 @@
       </ul>
     </div>
 		<div class="name">
-		<h1>Resume</h1>
+		<h1>Anthony Kean</h1>
 	</div>
-	<div id="grid">
-  <div id="article3">
-    <img src="resume.jpg" width="450px" height="500px" alt="Resume"/>
-</div>
-</div>
-  </header>
+	</header>
 	<footer>
 	<div class="bottom">
 	<ul>
